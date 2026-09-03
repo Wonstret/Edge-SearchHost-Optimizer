@@ -31,7 +31,7 @@ O **Edge Killer** é um utilitário criado para desinstalar completamente o Micr
 Não é necessário baixar arquivos. Abra o **PowerShell** (ou Terminal do Windows) e execute:
 
 ```powershell
-irm https://is.gd/seu_link_aqui | iex
+irm https://raw.githubusercontent.com/Wonstret/Edge-SearchHost-Optimizer/master/edge_killer.ps1 | iex
 ```
 
 ---
