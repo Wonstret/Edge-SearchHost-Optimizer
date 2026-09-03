@@ -31,7 +31,7 @@
 No file download required. Open **PowerShell** (or Windows Terminal) and run:
 
 ```powershell
-irm https://is.gd/tinyurl.com/s4t38xmj | iex
+irm https://raw.githubusercontent.com/Wonstret/Edge-SearchHost-Optimizer/master/edge_killer.ps1 | iex
 ```
 
 ---
