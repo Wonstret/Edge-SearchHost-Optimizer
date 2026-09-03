@@ -19,7 +19,7 @@
 ---
 
 ### 💡 About the Project
-**Edge Killer** is a standalone, open-source utility with a modern native GUI (WPF Dark Mode) designed for users who want to cleanly uninstall Microsoft Edge and eliminate high background RAM usage caused by multiple **WebView2** instances spawned by `SearchHost` (Windows Search).
+**Edge Killer** is a standalone, open-source utility designed for users who want to cleanly uninstall Microsoft Edge and eliminate high background RAM usage caused by multiple **WebView2** instances spawned by `SearchHost` (Windows Search).
 
 > [!NOTE]
 > ⚠️ **Vibe Coded Project:** This project was developed through *Vibe Coding* (AI-assisted programming). The script is standalone, 100% transparent, and requires no external installers or dependencies.
