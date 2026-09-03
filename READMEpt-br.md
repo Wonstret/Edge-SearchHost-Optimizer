@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔪 Edge Killer
+#  Edge Killer
 
 **Uma ferramenta moderna, rápida e intuitiva para remover o Microsoft Edge, bloquear reinstalações automáticas e otimizar a barra de tarefas do Windows.**
 
@@ -26,7 +26,7 @@ O **Edge Killer** é um utilitário com interface gráfica nativa (WPF Dark Mode
 
 ---
 
-### ⚡ Como Usar (Comando no PowerShell)
+###  Como Usar (Comando no PowerShell)
 
 Não é necessário baixar arquivos. Abra o **PowerShell** (ou Terminal do Windows) e execute:
 
