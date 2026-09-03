@@ -19,7 +19,7 @@
 ---
 
 ### 💡 About the Project
-**Edge Killer** is a standalone, open-source utility designed for users who want to cleanly uninstall Microsoft Edge and eliminate high background RAM usage caused by multiple **WebView2** instances spawned by `SearchHost` (Windows Search).
+**Edge Killer** is a standalone, open-source utility designed for users who want to cleanly uninstall Microsoft Edge and eliminate high background RAM usage caused by multiple **WebView2** instances.
 
 > [!NOTE]
 > ⚠️ **Vibe Coded Project:** This project was developed through *Vibe Coding* (AI-assisted programming). The script is standalone, 100% transparent, and requires no external installers or dependencies.
@@ -32,3 +32,12 @@ No file download required. Open **PowerShell** (or Windows Terminal) and run:
 
 ```powershell
 irm https://is.gd/your_link_here | iex
+```
+
+---
+
+### 📚 Credits & Acknowledgments
+
+- **[AveYo](https://github.com/AveYo)** - Edge-Removal-Tool
+- **[Chris Titus Tech](https://github.com/ChrisTitusTech)** - WinUtil
+- **[Catppuccin](https://github.com/catppuccin/catppuccin)** - Palette
