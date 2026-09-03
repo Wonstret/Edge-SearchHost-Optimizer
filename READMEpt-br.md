@@ -36,7 +36,7 @@ irm https://is.gd/seu_link_aqui | iex
 
 ---
 
-### 📚 Créditos e Agradecimentos
+###  Créditos e Agradecimentos
 
 - **[AveYo](https://github.com/AveYo)** - Edge-Removal-Tool
 - **[Chris Titus Tech](https://github.com/ChrisTitusTech)** - WinUtil
