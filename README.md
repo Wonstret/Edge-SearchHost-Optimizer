@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔪 Edge Killer
+#  Edge Killer
 
 **A modern, lightweight, and intuitive GUI tool to completely remove Microsoft Edge, prevent automatic reinstallations, and optimize the Windows taskbar.**
 
@@ -26,7 +26,7 @@
 
 ---
 
-### ⚡ Quick Start (1-Line PowerShell Command)
+###  Quick Start (PowerShell Command)
 
 No file download required. Open **PowerShell** (or Windows Terminal) and run:
 
