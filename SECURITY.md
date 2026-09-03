@@ -2,7 +2,7 @@
 
 # Security Policy
 
-[Português (Brasil)](./SECURITYpt-br.md)
+[Português (Brasil)](./SECURITY-pt-br.md)
 
 </div>
 
