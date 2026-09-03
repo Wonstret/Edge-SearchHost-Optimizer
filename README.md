@@ -4,21 +4,19 @@
 
 **A modern, lightweight, and intuitive GUI tool to completely remove Microsoft Edge, prevent automatic reinstallations, and optimize the Windows taskbar.**
 
+[![Português](https://img.shields.io/badge/Language-Português_🇧🇷-2ea44f?style=for-the-badge)](./README.pt-BR.md)
+
+<br/>
+
 [![PowerShell](https://img.shields.io/badge/PowerShell-5.1%20%7C%207%2B-blue?logo=powershell)](https://github.com/)
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?logo=windows)](https://github.com/)
 [![Theme](https://img.shields.io/badge/Theme-Catppuccin%20Mocha-CBA6F7)](https://github.com/catppuccin/catppuccin)
 [![Vibe Coded](https://img.shields.io/badge/Built%20with-Vibe%20Coding-F38BA8)](https://github.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-<br/>
-
-[**🇺🇸 English**](#english) &nbsp;•&nbsp; [**🇧🇷 Português**](#portugues)
-
 </div>
 
 ---
-
-## <a id="english"></a>🇺🇸 English
 
 ### 💡 About the Project
 **Edge Killer** is a standalone, open-source utility with a modern native GUI (WPF Dark Mode) designed for users who want to cleanly uninstall Microsoft Edge and eliminate high background RAM usage caused by multiple **WebView2** instances spawned by `SearchHost` (Windows Search).
