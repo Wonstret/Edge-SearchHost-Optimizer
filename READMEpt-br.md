@@ -19,7 +19,7 @@
 ---
 
 ### 💡 Sobre o Projeto
-O **Edge Killer** é um utilitário criado para desinstalar completamente o Microsoft Edge e eliminar o consumo excessivo de memória RAM causado pelos múltiplos processos de **WebView2** rodando em segundo plano no `SearchHost` (Pesquisa do Windows).
+O **Edge Killer** é um utilitário criado para desinstalar completamente o Microsoft Edge e eliminar o consumo excessivo de memória RAM causado pelos múltiplos processos de **WebView2** rodando em background.
 
 > [!NOTE]
 > ⚠️ **Aviso de Vibe Coding:** Este projeto foi desenvolvido através de *Vibe Coding* (programação assistida por IA). O código é aberto, direto e não requer nenhuma dependência externa.
@@ -32,3 +32,12 @@ Não é necessário baixar arquivos. Abra o **PowerShell** (ou Terminal do Windo
 
 ```powershell
 irm https://is.gd/seu_link_aqui | iex
+```
+
+---
+
+### 📚 Créditos e Agradecimentos
+
+- **[AveYo](https://github.com/AveYo)** - Edge-Removal-Tool
+- **[Chris Titus Tech](https://github.com/ChrisTitusTech)** - WinUtil
+- **[Catppuccin](https://github.com/catppuccin/catppuccin)** - Palette
