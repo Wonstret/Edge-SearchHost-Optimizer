@@ -4,7 +4,7 @@
 
 **A modern, lightweight, and intuitive GUI tool to completely remove Microsoft Edge, prevent automatic reinstallations, and optimize the Windows taskbar.**
 
-[![Português](https://img.shields.io/badge/Language-Português_🇧🇷-2ea44f?style=for-the-badge)](./README.pt-BR.md)
+[![Português](https://img.shields.io/badge/Language-Português_🇧🇷-2ea44f?style=for-the-badge)](./README pt-br.md)
 
 <br/>
 
