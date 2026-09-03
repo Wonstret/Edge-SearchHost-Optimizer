@@ -19,7 +19,7 @@
 ---
 
 ### 💡 Sobre o Projeto
-O **Edge Killer** é um utilitário com interface gráfica nativa (WPF Dark Mode) criado para desinstalar completamente o Microsoft Edge e eliminar o consumo excessivo de memória RAM causado pelos múltiplos processos de **WebView2** rodando em segundo plano no `SearchHost` (Pesquisa do Windows).
+O **Edge Killer** é um utilitário criado para desinstalar completamente o Microsoft Edge e eliminar o consumo excessivo de memória RAM causado pelos múltiplos processos de **WebView2** rodando em segundo plano no `SearchHost` (Pesquisa do Windows).
 
 > [!NOTE]
 > ⚠️ **Aviso de Vibe Coding:** Este projeto foi desenvolvido através de *Vibe Coding* (programação assistida por IA). O código é aberto, direto e não requer nenhuma dependência externa.
